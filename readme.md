@@ -1,3 +1,3 @@
 ## fresh
 
-get fresh spirits delivered to your doorstep
+Get fresh spirits delivered to your doorstep
