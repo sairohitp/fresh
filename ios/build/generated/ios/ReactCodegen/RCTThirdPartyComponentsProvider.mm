@@ -20,8 +20,7 @@
 
   dispatch_once(&nativeComponentsToken, ^{
     thirdPartyComponents = @{
-		@"RNCSafeAreaProvider": NSClassFromString(@"RNCSafeAreaProviderComponentView"), // react-native-safe-area-context
-		@"RNCSafeAreaView": NSClassFromString(@"RNCSafeAreaViewComponentView"), // react-native-safe-area-context
+
     };
   });
 
